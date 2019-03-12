@@ -32,5 +32,5 @@ class Helpers {
     }
 }
 
-console.log(Helpers.PI);
-console.log(Helpers.calCircumferance(8));
+console.log(Helpers.PI);    //you can call them without creating the object
+console.log(Helpers.calCircumferance(8)); // you can call them without creating the object
